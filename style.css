@@ -1,0 +1,16 @@
+.forecast {
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 10px; 
+}
+
+.navbar {
+    margin-bottom: 20px;
+  }
+
+  .btn-previous-city {
+    width: 150px; 
+    margin-bottom: 5px; /* Add some spacing between buttons */
+
+    
+  }
